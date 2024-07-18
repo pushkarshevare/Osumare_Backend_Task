@@ -29,7 +29,7 @@ Get a todo by ID :
 URL: '/todos/:id',
 Method: GET
 
-Update an existing todo : 
+Update an existing todo :
 URL: '/todos/:id',
 Method: PUT
 
