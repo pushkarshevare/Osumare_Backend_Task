@@ -13,9 +13,9 @@ Task API
     ```
 3. Start the server:
 
-```sh
-nodemon main.js
-```
+    ```sh
+    nodemon main.js
+    ```
 
 Get all Todo List :  
 URL: '/todos',  
