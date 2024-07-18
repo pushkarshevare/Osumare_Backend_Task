@@ -21,19 +21,19 @@ Get all Todo List :
 URL: '/todos', 
 Method: GET
 
-Create a new todo : 
+Create a new todo :  
 URL: '/todos',
 Method: POST
 
-Get a todo by ID : 
+Get a todo by ID :  
 URL: '/todos/:id',
 Method: GET
 
-Update an existing todo :
+Update an existing todo :  
 URL: '/todos/:id',
 Method: PUT
 
-Delete a todo by ID : 
+Delete a todo by ID :  
 URL: '/todos/:id',
 Method: DELETE
 
