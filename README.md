@@ -2,19 +2,19 @@ Task API
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/task-api.git
-    cd task-api
+    git clone https://github.com/pushkarshevare/Osumare_Backend_Task.git
     ```
 
 2. Install the dependencies:
 
     ```sh
     npm install
+    npm i nodemon
     ```
 3. Start the server:
 
 ```sh
-node src/index.js
+nodemon main.js
 ```
 
 Get all Todo List
